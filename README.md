@@ -29,5 +29,3 @@ Finally it ends with a footer section with two footercards and a copyright in th
 ## CREATIVITY
 
 The background image in the website makes the mockup a bit more attractive then ose of a solid colours and also aligns with the content and enhances the theme of the colours use din the mockup. The dark theme also co-aligns with the aspect of royalty as espected.
-
----# JB-VILLA
